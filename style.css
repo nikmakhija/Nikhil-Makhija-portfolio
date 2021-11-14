@@ -2,8 +2,34 @@ header {
     background-color: blue;
     padding: 15px;
 }
+header {
+    display: flex;
+    flex-direction: column;
+    background-color:blue
+}
 
 a {
     color:yellow;
     text-decoration: none;
+}
+h1 {
+    color: red;
+    text-decoration: underline;
+    background-color:aquamarine; 
+}
+h2{
+    color: blue;
+    background-color: yellow;
+}
+<body> {
+background-color:honeydew;
+}
+table {
+background-color: honeydew;
+}
+@media screen and (min-width: 600px}{
+    .elements{list-style-type:square;}
+}
+element {
+    background-color: var(-main-bg-color);
 }
