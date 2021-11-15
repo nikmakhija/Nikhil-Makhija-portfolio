@@ -3,6 +3,11 @@ header {
     padding: 15px;
 }
 header {
+    background-image:
+    url("C:\Users\makhija.1\Documents\49020838-boy-avatar-simple-icon-for-web-and-mobile-devices.jpg");
+    background-size:cover;
+}
+header {
     display: flex;
     flex-direction: column;
     background-color:blue
